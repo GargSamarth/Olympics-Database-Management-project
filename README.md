@@ -17,3 +17,10 @@
 ### 5) Normalization
 ### 6) Relational Schema
 ### 7) SQL Code
+###
+###
+###
+## TEAM MEMBERS
+### 1. DISHA INWATI
+### 2. VANDANA PACHIPALA
+### 3. SAMARTH GARG
